@@ -1,6 +1,4 @@
 ﻿
-using System.ComponentModel.Design;
-
 int year;
 void LeapYearChecker()
 {
