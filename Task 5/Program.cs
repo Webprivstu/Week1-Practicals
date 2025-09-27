@@ -1,4 +1,5 @@
-﻿int number;
+﻿
+int number;
 
 void Checker()
 {
